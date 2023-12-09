@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Artificial Intelligence**
 
-- 📫 How to reach me **rohitttgggoswami@gmail.com**
+- 📫 How to reach me **realrohitgoswami@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
