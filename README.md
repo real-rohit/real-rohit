@@ -4,6 +4,8 @@
   <img alt="real-rohit's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<img src="terminal.gif" width="100%" alt="Animated terminal showing GitHub stats" />
+
 <h1 align="center">Hi 👋, I'm Rohit Goswami</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
