@@ -1,4 +1,9 @@
-<img width="2000" src="https://github.com/rohitt-goswami/rohitt-goswami/blob/main/Push%20your%20limits%2C%20(1).png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="real-rohit's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hi 👋, I'm Rohit Goswami</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
