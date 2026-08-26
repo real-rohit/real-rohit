@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="real-rohit's GitHub profile" src="dark_mode.svg" />
-</picture>
+<img src="ascii_animated.gif" width="100%" alt="Animated ASCII art portrait" />
 
 <img src="terminal.gif" width="100%" alt="Animated terminal showing GitHub stats" />
 
