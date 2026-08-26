@@ -1,99 +1,77 @@
+<h1 align="center">Rohit Goswami</h1>
+
+<p align="center">
+<a href="https://linkedin.com/in/rohitgoswamii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:realrohitgoswami@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/real-rohit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=real-rohit&label=Profile%20Views&color=0e75b6&style=flat" alt="real-rohit" />
+</p>
+
+---
+
 <img src="ascii_animated.gif" width="100%" alt="Animated ASCII art portrait" />
 
 <img src="terminal.gif" width="100%" alt="Animated terminal showing GitHub stats" />
 
-<h1 align="center">Rohit Goswami</h1>
+---
+
+<h3 align="center">About Me</h3>
 
 <p align="center">
-<b>Flutter Developer</b> | Cross-Platform Mobile Apps | Firebase & REST APIs<br/>
-<a href="mailto:realrohitgoswami@gmail.com">realrohitgoswami@gmail.com</a> · Jaipur, Rajasthan · +91-7597181771<br/>
-<a href="https://linkedin.com/in/rohitgoswamii">LinkedIn</a> · <a href="https://github.com/real-rohit">GitHub</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Flutter+Developer;Cross-Platform+Mobile+Apps;Firebase+%26+REST+APIs;Building+Production+Apps" alt="Typing SVG" />
+</p>
+
+- 🔭 I've shipped **5+ client projects** with **3+ production deployments** on Play Store, App Store & Web
+- 🌱 Currently pursuing **BCA (AI & ML)** at JECRC University — CGPA 8.51
+- 💬 Ask me about **Flutter, Firebase, AI/ML, Embedded Systems**
+- 🏆 **Top 20 of 500+ teams** — Smart India Hackathon 2025
+
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
-## About
+<h3 align="center">GitHub Stats</h3>
 
-Flutter Developer experienced in building and shipping production cross-platform applications using Flutter and Dart. Skilled in REST APIs, Firebase, Provider/GetX, Clean Architecture, reusable components, debugging, and production deployment. Delivered software across **5+ client projects** with **3+ production deployments** across Google Play Store, Apple App Store, and Web.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=real-rohit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="real-rohit" />
+</p>
 
----
-
-## Tech Stack
-
-<p align="left">
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=real-rohit&theme=radical&hide_border=true" alt="real-rohit" />
 </p>
 
 ---
 
-## Experience
-
-### Product Development Intern — QDegrees Services Pvt. Ltd., Jaipur (Hybrid)
-*Jun 2025 – Oct 2025*
-
-- Developed **2 production-ready Flutter applications**, owning features from responsive UI through REST API integration
-- Built reusable UI modules using **Clean Architecture, Provider, and GetX**, reducing duplication
-- Integrated REST APIs and collaborated with backend engineers on auth, sync, and server-driven functionality
-- Contributed through Git-based code reviews, testing, and **Agile/Scrum** workflows
-
-### Lead Flutter Developer — Jupenta Technologies (Remote, Contract)
-*Feb 2025 – May 2025* · [Play Store](https://play.google.com/store/apps/details?id=com.jupenta.busmate)
-
-- Led Flutter development of **BusMate** — a production fleet-management and real-time school bus-tracking platform
-- Engineered cross-platform functionality with **Flutter, Dart, Firebase, GPS tracking, geofencing, and role-based access**
-- Implemented workflows for **5 user roles**: Parent, Driver, Super Admin, School Admin, Staff Admin
-- Owned the full application lifecycle from architecture through production deployment
+<p align="center">
+<img src="https://github-readme-trophies.vercel.app/?username=real-rohit&theme=radical&no-frame=true&no-bg=true&column=7" alt="real-rohit" />
+</p>
 
 ---
 
-## Projects
+<h3 align="center">Contribution Graph</h3>
 
-### VentaIQ — Multi-Tenant AI Sales CRM
-`Flutter` `Firebase` `AI/LLMs` `REST APIs`
-
-- Multi-tenant AI-powered sales CRM for WhatsApp-first lead management and automated follow-ups
-- Deterministic sales workflows combining AI automation with human escalation for sensitive interactions
-- Modular lead, conversation, campaign, and automation layers with isolated tenant data
-
-### NSTA / FormFit AI — Real-Time Sports Pose Detection
-`Flutter` `Firebase` `TensorFlow Lite`
-
-- On-device real-time pose estimation using MoveNet/TensorFlow Lite with repetition counting and form analysis
-- Firebase integration for auth, user data, and progress analytics
-- Offline-first inference architecture for low-latency operation
-
-### AI Wearable Prototype — Embedded Mobile Integration
-`nRF52840` `BLE` `Flutter` `Embedded Systems`
-
-- Prototyped an AI wearable around the nRF52840 with BLE communication and mobile connectivity
-- Crossed embedded firmware and Flutter integration with BLE bonding, OTA/DFU workflows, and 3D-printed hardware
-
----
-
-## Education
-
-**Bachelor of Computer Applications (AI & ML)** — JECRC University, Jaipur
-*Expected Apr 2027 · CGPA: 8.51/10*
-
----
-
-## Achievements
-
-- **Top 20 of 500+ teams** — Smart India Hackathon 2025
-- **Winner** — Innov8 Ghost Code competitive programming
-- **Languages:** English (Professional) · Hindi (Native) · German (Beginner)
-
----
-
-<p align="center"><i>"Ship production apps, not just prototypes."</i></p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=real-rohit&theme=redical&hide_border=true&area=true" alt="real-rohit" />
+</p>
